@@ -1,2 +1,2 @@
-# One Page com JQuery
+# Spotyfy - Clone 
  Projeto utilizando o Jquery
